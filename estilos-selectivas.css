@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+.main {
+    background-color: silver;
+    padding: 12px;
+}
+
+.titulo {
+    background-color: darkslategray;
+    color: aliceblue;
+    font-size: 45px;
+}
+
+#resultado {
+    padding: 25px;
+    margin: 50px;
+    background-color: rosybrown;
+    color: aliceblue;
+    font-size: 300%;
+    text-align: center;
+}
